@@ -2,4 +2,4 @@ test file
 modified on master branch
 file modified in GitHub
 another new thing
-this difference
+this difference is no difference
